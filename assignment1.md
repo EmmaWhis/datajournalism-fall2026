@@ -24,4 +24,11 @@
 
 # Creativity
 * Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
-  * The article contained many pictures of areas around DC and the people interviewed. These visuals of the individuals interviewed humanized them by making them more than just a name on a page. This was effective, because it provides a sense of realness to the data being discussed. Joseph Gelletich and  Keisha Whitlock are not just statistics, they are real people experiencing very real injustices. I give it a score of 4. 
+  * The article contained many pictures of areas around DC and the people interviewed. These visuals of the individuals interviewed humanized them by making them more than just a name on a page. This was effective, because it provides a sense of realness to the data being discussed. Joseph Gelletich and  Keisha Whitlock are not just statistics, they are real people experiencing very real injustices. I give it a score of 4.
+
+# Pitch
+Currently, the US is experiencing a major literacy crisis that is shown in the decline of reading proficiency across all grade levels. This decline highlights major inequalities within the education system as a whole and has major implications for how students are treated throughout their educational career. When a student falls behind in their reading proficiency, it is incredibly hard to catch them back up due to inefficient intervention programs and understaffing within schools. This crisis will eventually have major impacts on society as students who struggle with literacy enter the workforce. 
+
+Data from school administrations, national reports, local news media, and organizations like the National Literacy Institute can be analyzed to better understand the depth of the literacy crisis and what interventions have been working to counteract it. A few ways to analyze the data could be to chart it and see where datapoints overlap and then extrapolate why that could be.
+
+If given the opportunity, I would structure this story in a way that highlights the student impacts and how it pigeon holes students throughout their academic career while supporting it with data from grades K-12. I would also focus on what is being done to correct the issue and whether or not it is working based on the most recent data from proficiency exams. 
