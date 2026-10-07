@@ -37,4 +37,5 @@ The literacy crisis is an issue that is showing up all across America. This cris
 
 * Yu, Yi-Jin. “US Students’ Reading and Math Scores at Historic Lows: ‘Devastating Trend.’” Good Morning America, 9 Sept. 2025, https://www.goodmorningamerica.com/living/story/us-students-reading-math-scores-historic-lows-devastating-125392421
 
-
+# AI Disclosure 
+No AI was used for this assignment. All work was done by Navin and Emma. 
