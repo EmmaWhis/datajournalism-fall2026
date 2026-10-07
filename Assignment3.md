@@ -24,6 +24,7 @@ Original Dataset:
 Edited Dataset: 
 * https://american0-my.sharepoint.com/:x:/g/personal/ng3757a_american_edu/IQA4oVt_YkGBSoAkAWza7prPAde_K9Fckue_q2i03EG7E1A?e=ZrnmxB
 
+This dataset is from a trustworthy reputable source, UNICEF (United Nations International Children's Emergency Fund). As an international organization, they are committed to collecting and maintaining good high quality data that is accessible for all in their efforts to protect and support women and children. The limitations for this data lie within the fact that it is data from 2021 with information gathered from three years prior to that year. This source will give us a bigger picture look on literacy crisis data. It is relevant because it will be a good point of comparison to more recent data that we continue to collect.
 
 # Summary of Research
 
@@ -35,4 +36,6 @@ The literacy crisis is an issue that is showing up all across America. This cris
 * Jones II, Arthur. “US Students’ Reading Scores Take a Dive, New Data Shows.” ABC News, 8 Sept. 2026, https://abcnews.com/GMA/News/us-students-reading-scores-dive-new-data-shows/story?id=136272199 
 
 * Yu, Yi-Jin. “US Students’ Reading and Math Scores at Historic Lows: ‘Devastating Trend.’” Good Morning America, 9 Sept. 2025, https://www.goodmorningamerica.com/living/story/us-students-reading-math-scores-historic-lows-devastating-125392421
+
+# Additional Datasets
 
