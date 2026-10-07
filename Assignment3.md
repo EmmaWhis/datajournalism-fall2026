@@ -15,4 +15,16 @@ To make this pivot table, I took the shift and offense-text. I placed both categ
 Answer
 * Across all three times of day, the most prevalent crime is theft, including auto theft.
 
-# Final Project Data
+## Final Project Data
+
+Summary of Research
+
+The literacy crisis is an issue that is showing up all across America. This crisis is being reflected in student test scores with numbers dropping every year. The most notable reporter of this data is National Assessment of Educational Progress (NAEP), often referred to as the nation’s report card, which provides data on 4th and 8th grade students throughout the years. Research that is already being done seems to focus on scores from the 2000s to current day, with notes on how the pandemic played a role in the dropping scores. For our story, we are hoping to open up the data and look at a broader scope to see the larger trends. This could give a better idea on if this crisis has been building up for longer than experts realized or if it truly is a more recent development in the country’s education. 
+* “NAEP Reading: State Achievement-Level Results.” The Nation’s Report Card, National Center for Education Statistics, U.S. Department of Education, 2022, https://www.nationsreportcard.gov/reading/states/achievement/?grade=4 
+
+* Jones II, Arthur, and Schulze, Elizabeth. “New Data Highlights ‘Achievement Gap’ for Students in the US.” ABC News, 29 Jan. 2025, https://abcnews.com/US/new-data-highlights-achievement-gap-students-us/story?id=118205261&utm_source=chatgpt.com 
+
+* Jones II, Arthur. “US Students’ Reading Scores Take a Dive, New Data Shows.” ABC News, 8 Sept. 2026, https://abcnews.com/GMA/News/us-students-reading-scores-dive-new-data-shows/story?id=136272199 
+
+* Yu, Yi-Jin. “US Students’ Reading and Math Scores at Historic Lows: ‘Devastating Trend.’” Good Morning America, 9 Sept. 2025, https://www.goodmorningamerica.com/living/story/us-students-reading-math-scores-historic-lows-devastating-125392421
+
