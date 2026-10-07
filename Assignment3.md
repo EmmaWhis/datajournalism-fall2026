@@ -17,7 +17,15 @@ Answer
 
 ## Final Project Data
 
-Summary of Research
+UNICEF (United Nations International Children's Emergency Fund) Data
+Original Dataset:
+* https://american0-my.sharepoint.com/:x:/g/personal/ng3757a_american_edu/IQDT5cAUfkBCQJ0UpacaiDngARLhL54pA4hBXMoTogi8FAY?e=g5U5LJ 
+
+Edited Dataset: 
+* https://american0-my.sharepoint.com/:x:/g/personal/ng3757a_american_edu/IQA4oVt_YkGBSoAkAWza7prPAde_K9Fckue_q2i03EG7E1A?e=ZrnmxB
+
+
+# Summary of Research
 
 The literacy crisis is an issue that is showing up all across America. This crisis is being reflected in student test scores with numbers dropping every year. The most notable reporter of this data is National Assessment of Educational Progress (NAEP), often referred to as the nation’s report card, which provides data on 4th and 8th grade students throughout the years. Research that is already being done seems to focus on scores from the 2000s to current day, with notes on how the pandemic played a role in the dropping scores. For our story, we are hoping to open up the data and look at a broader scope to see the larger trends. This could give a better idea on if this crisis has been building up for longer than experts realized or if it truly is a more recent development in the country’s education. 
 * “NAEP Reading: State Achievement-Level Results.” The Nation’s Report Card, National Center for Education Statistics, U.S. Department of Education, 2022, https://www.nationsreportcard.gov/reading/states/achievement/?grade=4 
