@@ -8,7 +8,7 @@ Interesting question:
 This is a newsworthy question because it can inform students of what to look out for when navigating the areas around campus. They can know, on average, what crime is most likely to happen and can take preventative steps to protect themselves and their property. 
 
 Link to Pivot Table
-* HERE
+* (https://american0-my.sharepoint.com/:x:/g/personal/ew8285a_american_edu/IQBTyPR4bxdxTo1Hf-Z6Q33nATGWJqsCRZBqtihimnFtdx0?e=PqN3gr)
 
 To make this pivot table, I took the shift and offense-text. I placed both categories in the Row section for the pivot table and then put offense-text into the Values. This way the pivot table would show not only the total number of crimes occurring at the different points in the day but also what the crimes were. 
 
