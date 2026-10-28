@@ -17,5 +17,5 @@ I chose to represent this data in a pie chat because I think it better shows tha
 ![image alt](https://github.com/EmmaWhis/datajournalism-fall2026/blob/3b5f6d0d68cda2a666b1e162d4a6c0000b5902fb/animals.png)
 
 # AI Disclosure
-For this assignment, I used ChatGPT to change my pdf of my drawings to a png file in order to link them in markdown.
+For this assignment, I used ChatGPT to change the pdf of my drawings to a png file in order to link them in markdown.
 
